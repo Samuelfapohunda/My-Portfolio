@@ -4,20 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d myProject"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samuelfapohunda/myProject.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Samuelfapohunda/myProject/issues"
   },
-  "homepage": "https://github.com/Samuelfapohunda/myProject",
-  "keywords": [],
   "dependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
